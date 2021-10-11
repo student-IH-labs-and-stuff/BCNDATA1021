@@ -3,6 +3,7 @@
 # github 
 
 - https://docs.github.com/en/get-started/quickstart/create-a-repo
+- https://learngitbranching.js.org/
 
 # bash / terminal 
 
