@@ -12,4 +12,11 @@
 
 # jupyter notebook / markdown 
 
-- https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet
+- https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet- 
+
+# python 
+
+- https://hackr.io/blog/python-data-structures
+- https://www.learnpython.org/en/Loops
+- https://www.learnpython.org/en/Conditions
+
