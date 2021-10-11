@@ -1,5 +1,5 @@
 # BCNDATA1021
-our classroom git repo - data bootcamp
+this is our classroom github repo - for the data bootcamp
 
 
 ## Useful links :
