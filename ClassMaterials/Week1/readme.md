@@ -20,3 +20,14 @@
 - https://www.learnpython.org/en/Loops
 - https://www.learnpython.org/en/Conditions
 
+# conda 
+
+[https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
+https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+https://docs.continuum.io/anaconda/
+
+# pandas 
+https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
+
+# numpy 
+https://numpy.org/install/
