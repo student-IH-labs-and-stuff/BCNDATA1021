@@ -24,19 +24,24 @@
 
 # conda 
 
-[https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
-https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
-https://docs.continuum.io/anaconda/
+- [https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
+- https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+- https://docs.continuum.io/anaconda/
 
 # pandas 
-https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
+- https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 https://www.interviewqs.com/ddi-code-snippets/extract-month-year-pandas
 
+# plotting 
+- https://matplotlib.org/
+- https://seaborn.pydata.org/
+- https://data36.com/plot-histogram-python-pandas/
+
 # numpy 
-https://numpy.org/install/
+- https://numpy.org/install/
 
 # REGEX
-https://cheatography.com/davechild/cheat-sheets/regular-expressions/
-https://regexone.com/
-https://www.sitepoint.com/learn-regex/
+- https://cheatography.com/davechild/cheat-sheets/regular-expressions/
+- https://regexone.com/
+- https://www.sitepoint.com/learn-regex/
 
