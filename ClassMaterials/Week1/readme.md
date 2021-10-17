@@ -19,6 +19,8 @@
 - https://hackr.io/blog/python-data-structures
 - https://www.learnpython.org/en/Loops
 - https://www.learnpython.org/en/Conditions
+- https://docs.python.org/3/tutorial/errors.html
+- https://www.w3resource.com/python-exercises/date-time-exercise/
 
 # conda 
 
@@ -31,3 +33,9 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 
 # numpy 
 https://numpy.org/install/
+
+# REGEX
+https://cheatography.com/davechild/cheat-sheets/regular-expressions/
+https://regexone.com/
+https://www.sitepoint.com/learn-regex/
+
