@@ -12,7 +12,7 @@
 
 # jupyter notebook / markdown 
 
-- https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet- 
+- https://ingeh.medium.com/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed
 
 # python 
 
