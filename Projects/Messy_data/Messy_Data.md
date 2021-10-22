@@ -1,8 +1,10 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Task : clean the data - summarise your findings in a 'one pager'
+# Working with Messy Data 
 
-## Here's your challenge for your first group project! 
+## Task : clean the data - summarise your findings in a 'one pager'
+
+### Here's your challenge for your first group project! 
 
 the deadline for finishing this project is Friday; I will give you class time to work on this project and you should submit your one pager via the student portal on Friday (any time) AND be ready to deliver a short group presentation to your classmates on Friday morning. 
 
@@ -10,9 +12,9 @@ the deadline for finishing this project is Friday; I will give you class time to
 
 You will be working with a data set hosted on Kaggle that has been scraped for you from the web about US data science hires in 2018 (ie pre-covid!). The author wanted to look at some specific questions :
 
-### Who gets hired? What kind of talent do employers want when they are hiring a data scientist?
-### Which location has the most opportunities?
-### What skills, tools, degrees or majors do employers want the most for data scientists?
+#### Who gets hired? What kind of talent do employers want when they are hiring a data scientist?
+#### Which location has the most opportunities?
+#### What skills, tools, degrees or majors do employers want the most for data scientists?
 
 I think you can do more with this data set to summarise the insights and the process of data wrangling. The data is not easy to work with at the moment. Your main challenge will be to use Python to clean, wrangle and generally reshape the data to make it more straightforward to analyse- to visualise what you find in the data you can either export it to a csv, use excel to chart it, or you can explore the capabilities of Python or Tableau to plot the data.  
 
@@ -22,7 +24,7 @@ The insights you find can be documented simply with screenshots of your data fra
 
 For inspiration on what sort of insights you might look into, you can see the web scraper's blog here : https://nycdatascience.com/blog/student-works/who-gets-hired-an-outlook-of-the-u-s-data-scientist-job-market-in-2018/  
 
-## Some ideas for working successfully remotely with a group:
+### Some ideas for working successfully remotely with a group:
 
 - set up a co-working session where you dedicate an hour to this project, together
 
@@ -41,7 +43,7 @@ For inspiration on what sort of insights you might look into, you can see the we
 
 
 
-## Heres the data we will be working with: 
+### Heres the data we will be working with: 
 
 [Kaggle data source](https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us?select=alldata.csv) 
 
@@ -49,7 +51,7 @@ HINT : You will need to first download the data as csv file(s)
 
 
 
-## Expected steps and outcome: 
+### Expected steps and outcome: 
 
 - You can use the ALL data set you see in the Kaggle link or practice combining the separate files into one data frame
 
@@ -69,4 +71,4 @@ HINT : You will need to first download the data as csv file(s)
 
 
 
-# --- any questions reach out to the LT or TAs
+### --- any questions reach out to the LT or TAs
