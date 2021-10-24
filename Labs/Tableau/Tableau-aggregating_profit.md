@@ -10,9 +10,9 @@ Using the data set [global_superstore](https://github.com/student-IH-labs-and-st
 (Ensure each chart has the appropriate fit, chart/mark type, title, axis labels and colour scheme.)
 
 
-1. Profit over time by market - using Year, Quarter data values (green fields)
+1. Overall Profit over time by market - using Year, Quarter data values (green fields)
 2. Overall profitability by Sub category - with Category, Date, Market filters filter 
-3. Profit compared to Discount %, Sales Amount or Quantity (your choice) with a filter for Category and Subcategory (link your filters using only relevant values)
+3. Average Profit compared to Discount %, Sales Amount or Quantity (your choice) with a filter for Category and Subcategory (link your filters using only relevant values)
 4. Average Profit by Country (as a filled map) with a market filter, using a FIXED LOD on the label to show the global contribution of profit by each country (so that % label is unaffected by the filters when applied)  - and also with a simple bar chart viz embedded in the tool tip of the map, similar to that created in Step 2, so that when you hover over a country you can see the profitability by category
 6. Create a highlight table or any other chart type to quickly see the pattern between weeks and days of the week, with profit ratio % (profit divided by sales amount) on colour - be careful with your aggregation approach, remember to pre-aggregate! 
 7. Create a view showing the number of profitable transactions within each category and subcategory
