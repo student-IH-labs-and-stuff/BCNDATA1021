@@ -1,6 +1,6 @@
 ## RFM lab 
 
-+ using the [e commerce data set] of our case study, you will develop a dashboard which displays the results of the RFM analysis 
++ using the [e commerce data set](https://www.kaggle.com/carrie1/ecommerce-data) of our case study, you will develop a dashboard which displays the results of the RFM analysis 
 
 follow the steps and concepts you have learnt in class to: 
 + tag each customer with # weeks since last purchase , total customer worth and purchase frequency 
