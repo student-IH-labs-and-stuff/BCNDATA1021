@@ -1,17 +1,20 @@
 ## RFM lab 
 
-in this lab you will follow the steps and concepts you saw in class today to
++ using the [e commerce data set](https://www.kaggle.com/carrie1/ecommerce-data) of our case study, you will develop a dashboard which displays the results of the RFM analysis 
+
+follow the steps and concepts you have learnt in class to: 
 + tag each customer with # weeks since last purchase , total customer worth and purchase frequency 
 + tag each customer with tier 1-4 for RFM 
 + tag each customer with RFM ### 
 + define customer behaviour segments 
 + create some simple views which summarise information per segment/ tier (eg count of customers) or allow a deep dive into customer aggregated information by RFM tiers and segments, or views which enable focus on either R,F or M breakdown of the customer base
++ combine your views in an interactive dashboard, in a visually pleasing way, that would allow the product team to understand the behaviour of their customers better
 
 #### Each step below is given a description of what to do and accompanied by a [helpful screenshot in this folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/tree/main/Labs/RFMscreenshots), which you can use where needed. 
 
 ### Steps 
 ----
-1. you should already have the data from todays lesson, but if not download the csv from kaggle following the link provided in the case study 
+1. download the csv from kaggle following the link provided in the case study 
 2. explore and familiarise yourself with the data at your own pace - identify the columns you will need to keep and any you can drop or hide
 3.  assert data source filters on the data source connection page for Unit Price>0 , Quantity>0 
 4. create a view (worksheet) for checking dimension nulls - utilising ISNULL calculated fields on Customer ID, Description, Invoice Date, Invoice Number to confirm how many nulls are in the data, as a proportion of all the data - hint: you will need a stacked bar chart and quick table calculation percentage of total 
@@ -31,9 +34,7 @@ in this lab you will follow the steps and concepts you saw in class today to
 
 ---- 
 
-When you are ready, save your workbook with the separate views showing as tabs to Tableau public and submit your lab via the student portal (tableau public url)
-
-BONUS : combine your views in an interactive dashboard, in a visually pleasing way, that would allow the product team to understand the behaviour of their customers better. 
+When you are ready, save your workbook and dashboard, **with the separate views showing as tabs** to Tableau public and submit your lab via the student portal (tableau public url)
 
 
 
