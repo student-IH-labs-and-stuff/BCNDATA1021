@@ -3,22 +3,22 @@
 # Working with Messy Data 
 
 ## project group assignments randomly assigned
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Asterix.jpeg)
 
 Asterix: 
 Arne, Maz, Yamila 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Obelix.png)
 
 Obelix: 
 Ummuhan, Thomas, Zac 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Getafix.jpeg)
 
 Getafix:
 Gloria, Simon, Zeyad, Misho 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Vital.gif)
 
 Vitalstatistix: 
 Kofi, Luis, Virgilio, Pol
