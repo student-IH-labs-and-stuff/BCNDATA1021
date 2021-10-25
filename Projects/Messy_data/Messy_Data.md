@@ -2,6 +2,29 @@
 
 # Working with Messy Data 
 
+## project group assignments randomly assigned
+![alt text](http://url/to/img.png)
+
+Asterix: 
+Arne, Maz, Yamila 
+
+![alt text](http://url/to/img.png)
+
+Obelix: 
+Ummuhan, Thomas, Zac 
+
+![alt text](http://url/to/img.png)
+
+Getafix:
+Gloria, Simon, Zeyad, Misho 
+
+![alt text](http://url/to/img.png)
+
+Vitalstatistix: 
+Kofi, Luis, Virgilio, Pol
+
+
+
 ## Task : clean the data - summarise your findings in a 'one pager'
 
 ### Here's your challenge for your first group project! 
