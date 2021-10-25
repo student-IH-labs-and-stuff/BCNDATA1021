@@ -6,22 +6,22 @@
 ![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Asterix.jpeg)
 
 Asterix: 
-Arne, Maz, Yamila 
+- Arne, Maz, Yamila 
 
 ![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Obelix.png)
 
 Obelix: 
-Ummuhan, Thomas, Zac 
+- Ummuhan, Thomas, Zac 
 
 ![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Getafix.jpeg)
 
 Getafix:
-Gloria, Simon, Zeyad, Misho 
+- Gloria, Simon, Zeyad, Misho 
 
 ![alt text](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/blob/main/Projects/Messy_data/Vital.gif)
 
 Vitalstatistix: 
-Kofi, Luis, Virgilio, Pol
+- Kofi, Luis, Virgilio, Pol
 
 
 
