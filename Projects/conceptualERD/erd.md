@@ -4,16 +4,16 @@
 
 * The hardest element of this task will be understanding the requirement, coming up with a theoretical solution and creating something presentable, quickly, which covers most, if not all angles. 
 * We invite you to join up with other students in small groups of between 1-4, or if you prefer you can work alone. 
-* You will be given a limited amount of time during class hours tomorrow to discuss this as a group and formulate your response together. 
+* You will be given a limited amount of time during class hours today to discuss this as a group and formulate your response together. 
 * You will nominate a spokesperson from your group to present what you have developed to your classmates and answer questions
 * We would like ALL students to upload the link to the presentation materials to the student portal before the end of this week (hint: you might need to create a tidy Readme in one of your github repositories!) 
-* To clarify, you do not have to actually build a database, just sketch one out - either on paper, or using an online tool - I can suggest Lucidchart for this. 
+* To clarify, you do not have to actually build a database, just sketch one out - either on paper, or using an online tool - I suggest Lucidchart for this. 
 
 
 ### Scenario : 
 * You are a data analyst at a company called Gettoknowaplace which offers personalised recommendations to newcomers in big cities, based on paid for research topics. 
 
-* Your boss has given your team this requirement last minute and wants you to present back a proposal at your next meeting, friday morning 9am!
+* Your boss has given your team this requirement last minute and wants you to present back a proposal at your next meeting, on Friday!!!
 * The concept design should be for a database schema (a conceptual entity relationship diagram) which would store the relevant data for your chosen topic - it is important that the design is both logical and easy to query as another team in your company will design the query layer between the customer web application and the database.  
 
 * Your case study customer is in her 30s and has recently relocated to the city where you live. Each group will select one of the topics from the below list; each topic includes some sample questions (appropriate to a traditional relational database structure) and a 'fluffier', unstructured question (U:) which might require more imagination to resolve. 
