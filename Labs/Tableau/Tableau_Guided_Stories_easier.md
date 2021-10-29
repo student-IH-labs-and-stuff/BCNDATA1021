@@ -8,7 +8,7 @@ Build a story compiled of individual captioned storypoints in Tableau and publis
 Utilise the annotation and duplicate storypoint features within the Story to guide the end user through the story you want to tell with your data.  For each page of your story you should consider data visualisation best practices. 
 The chart choices for each story point are up to you and be as simple or complex as you like but keep in mind that the Story is ideally consumed as a semi interactive presentation. Its ok also to include some visual imagery, external research and comments but the main focus should be on visualising observations found in the data, step by step. 
 
-(Ensure each chart has the appropriate fit, mark type, title, axis labels and legend and that visual best practices have been considered) 
+(Ensure each chart has the appropriate fit, mark type, title, axis labels and legend) 
 
 
 ## Your challenge : 
