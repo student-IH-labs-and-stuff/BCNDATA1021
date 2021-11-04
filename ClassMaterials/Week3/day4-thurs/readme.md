@@ -32,7 +32,7 @@ https://databasemanagement.fandom.com/wiki/Data_Anomalies
 
 - an optional activity on normalisation https://github.com/ironhack-edu/data_3.04_activities/blob/master/3.04_activity_1.md
 
-- we will revisit this concept in later lectures together 
+- we will revisit this concept in later lectures together!
 
 -------
 **Window functions**
@@ -40,3 +40,13 @@ https://databasemanagement.fandom.com/wiki/Data_Anomalies
 - slides on window functions https://docs.google.com/presentation/d/1ZUWC263bu1QfS3yu82HdlpjShmtK45-qHQFWuVIXJJg/edit?usp=sharing
 
 - my sql row number function https://www.mysqltutorial.org/mysql-window-functions/mysql-row_number-function
+
+
+**activities on window functions, joins- from your student portal, that i recommend  :**
+- https://github.com/ironhack-edu/data_2.08_activities - all activities here  are on window fx, primarily rank with join
+- https://github.com/ironhack-edu/data_3.01_activities/blob/master/3.01_activity_2.md identify relationship cardinality in the case study 
+- https://github.com/ironhack-edu/data_3.01_activities/blob/master/3.01_activity_3.md identify FK and PK 
+- https://github.com/ironhack-edu/data_3.01_activities/blob/master/3.01_activity_4.md joins and maths aggregation 
+- https://github.com/ironhack-edu/data_3.02_activities - all activities are on multiple table joins. even if you dont have time to do them, try to identify the tables you would need 
+
+
