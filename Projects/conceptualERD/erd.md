@@ -32,7 +32,7 @@
 ##### 2.submit the diagram via the student portal (all students)
 
 
-## TOPICS and example QUESTIONS -choose one topic per group, and aim to cover 80%+ of the requirement(questions) as this is It1
+## TOPICS and example QUESTIONS -choose one topic per group, and aim to cover 70%+ of the requirement(questions) as this is It1
 
 ### Transportation
 
