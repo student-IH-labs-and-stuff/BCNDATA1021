@@ -6,7 +6,7 @@
  
  -------
 
-**lucid chart for diagrams including ERD templates 
+**lucid chart for diagrams including ERD templates**
 
 - I suggest you to use lucid chart - theres a free version or a premium trial for 7 days - to create your erd diagram for this weeks mini project 
 
@@ -22,7 +22,7 @@ https://www.lucidchart.com
 ---------
 
 
-**Anomalies in denormalisation 
+**Anomalies in denormalisation**
 
 - In yesterdays lesson, we talked about the reasons why normalization is important in a database design. One of the reasons we did not talk about was data anomalies. Here are a couple of resources that you can use to read more about data anomalies. Go through these links and then we will have a discussion in class tomorrow:
 
