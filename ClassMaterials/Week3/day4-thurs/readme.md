@@ -1,31 +1,42 @@
 **here you will find some useful links and materials to help you with todays lectures**
 
-introduction to the ER data model https://flaviocopes.com/entity-relationship/
+- introduction to the ER data model https://flaviocopes.com/entity-relationship/
 
- intro to the diagram and concepts https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+-  intro to the diagram and concepts https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+ 
+ -------
 
 **lucid chart for diagrams including ERD templates 
 
-I suggest you to use lucid chart - theres a free version or a premium trial for 7 days - to create your erd diagram for this weeks mini project 
+- I suggest you to use lucid chart - theres a free version or a premium trial for 7 days - to create your erd diagram for this weeks mini project 
 
 https://www.lucidchart.com
 
-once you have signed up here is the link to the erd templates https://www.lucidchart.com/pages/templates/erd
+- once you have signed up here is the link to the erd templates https://www.lucidchart.com/pages/templates/erd
 
-heres the page about the elements of the diagram https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning
+- heres the page about the elements of the diagram https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning
 
-and heres a tutorial from lucid chart about building ERDS https://www.youtube.com/watch?v=QpdhBUYk7Kk
+- and heres a tutorial from lucid chart about building ERDS https://www.youtube.com/watch?v=QpdhBUYk7Kk
+
+
+---------
 
 
 **Anomalies in denormalisation 
 
-In yesterdays lesson, we talked about the reasons why normalization is important in a database design. One of the reasons we did not talk about was data anomalies. Here are a couple of resources that you can use to read more about data anomalies. Go through these links and then we will have a discussion in class tomorrow:
+- In yesterdays lesson, we talked about the reasons why normalization is important in a database design. One of the reasons we did not talk about was data anomalies. Here are a couple of resources that you can use to read more about data anomalies. Go through these links and then we will have a discussion in class tomorrow:
 
 https://beginnersbook.com/2015/05/normalization-in-dbms/
 https://databasemanagement.fandom.com/wiki/Data_Anomalies
 
+
+- an optional activity on normalisation https://github.com/ironhack-edu/data_3.04_activities/blob/master/3.04_activity_1.md
+
+- we will revisit this concept in later lectures together 
+
+-------
 **Window functions**
 
-slides on window functions https://docs.google.com/presentation/d/1ZUWC263bu1QfS3yu82HdlpjShmtK45-qHQFWuVIXJJg/edit?usp=sharing
+- slides on window functions https://docs.google.com/presentation/d/1ZUWC263bu1QfS3yu82HdlpjShmtK45-qHQFWuVIXJJg/edit?usp=sharing
 
-my sql row number function https://www.mysqltutorial.org/mysql-window-functions/mysql-row_number-function
+- my sql row number function https://www.mysqltutorial.org/mysql-window-functions/mysql-row_number-function
