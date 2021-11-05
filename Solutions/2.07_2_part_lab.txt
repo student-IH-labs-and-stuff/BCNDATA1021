@@ -1,0 +1,64 @@
+
+#part 1 
+
+show variables like 'local_infile';
+set global local_infile = 1;
+
+load data local infile './films_2020.csv' 
+
+-- provide the complete path of the file
+
+into table films_2020
+
+fields terminated BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+
+(film_id,title,description,release_year,language_id,original_language_id,rental_duration,rental_rate,length,replacement_cost,rating);
+
+#Please note: If there's an error while using the above sql query, please try and use the import wizard. Select the table and then in the file tab, go to "Import" and follow the steps there. Also make sure that while importing, select the option to ignore the first row in the csv file, as that contains headers of the table.
+
+
+update films_2020
+set rental_duration = 3, rental_rate = 2.99, replacement_cost = 8.99;
+
+# You might not see the results right away. You might have to click on another table and then click back on the films_2020 to see the changes implemented. This is one way to refresh the table. You can also use the refresh button to see the changes.
+
+
+
+# part 2 
+
+-- 1
+
+select last_name from sakila.actor
+group by last_name
+having count(*) = 1;
+-- 2
+
+select last_name from sakila.actor
+group by last_name
+having count(*) > 1;
+-- 3
+
+select staff_id, count(*) from sakila.rental
+group by staff_id;
+-- 4
+
+select release_year, count(*) as num_films from sakila.film
+group by release_year
+order by release_year;
+-- 5
+
+select rating, count(*) as num_films from sakila.film
+group by rating;
+-- 6
+
+select rating, round(avg(length),2) as avg_duration from sakila.film
+group by rating
+order by avg_duration desc;
+-- 7
+
+select rating, round(avg(length),2) as avg_duration from sakila.film
+group by rating
+having avg_duration > 120
+order by avg_duration desc;
