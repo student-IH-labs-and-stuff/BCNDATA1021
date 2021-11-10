@@ -22,4 +22,4 @@
 - https://github.com/MajedAlqawasmi/Logistic-Regression-Classification
 - https://github.com/Novi0106/bank-classification-lesson
 - https://github.com/RexTor78/Sql-to-Python
-- https://guides.github.com/features/mastering-markdown/
+- [tips on readmes](https://guides.github.com/features/mastering-markdown/)
