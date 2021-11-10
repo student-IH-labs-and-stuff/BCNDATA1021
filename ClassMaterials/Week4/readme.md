@@ -18,7 +18,7 @@
 - https://scikit-learn.org/stable/modules/model_evaluation.html 
 
 
-## example beautiful readme and organised notebooks :##
+## example beautiful readme and organised notebooks: ##
 - https://github.com/MajedAlqawasmi/Logistic-Regression-Classification
 - https://github.com/Novi0106/bank-classification-lesson
 - https://github.com/RexTor78/Sql-to-Python
