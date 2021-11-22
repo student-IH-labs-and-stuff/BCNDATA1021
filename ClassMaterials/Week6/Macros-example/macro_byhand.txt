@@ -1,0 +1,10 @@
+' vba hand-written from scratch
+
+
+'comments with apostrophes like this
+
+'indent lines for readability
+
+'name the macro here Sub formatting_data()    'select top row, insert a row    Range("1:1").Select    Selection.Insert        'Selecting a cell and giving a value to that selection    Range("A1").Select    Selection.Value = "CONTROLN"    Range("B1").Select    Selection.Value = "STATE"   ' We can give a value directly as well- quicker code    Range("C1").Value = "GENDER"    Range("D1").Value = "HV1"    Range("E1").Value = "IC1"    Range("F1").Value = "IC2"    Range("G1").Value = "AVGGIFT"        Range("1:1").Font.Bold = True    Range("A1").CurrentRegion.Select    'This is like going to cell A1 and then using Ctrl + A    'Aligning the text to center. You can also use xlLeft, xlRight based on the requirement    Range("A1").CurrentRegion.Select    Selection.HorizontalAlignment = xlCenter    'Adding a border to the data    Selection.Borders.LineStyle = xlContinuous
+    'Deleting columns that are not required
+    'Here we will see how to select multiple elements at the same time    Range("A:A, D:F").Select    Selection.Delete    ' Changing the color of cells    ' Break down the next piece of code. Show what Range("A1").End(xlToRight).select does    Range(Range("A1"), Range("A1").End(xlToRight)).Select    Selection.Interior.Color = vbYellow' For more color options you can colorindex as well. For example' Selection.Interior.ColorIndex = 10End Sub
