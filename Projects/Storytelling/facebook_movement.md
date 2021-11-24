@@ -42,6 +42,6 @@ This data source is kept monthly up to date, contains data on many (but not all 
 - introduction-visual-insight-conclusion - can be a good simple structure
 - Dont try to do too much - think about comparing 2 or 3 places, spotting patterns and variation, rather than looking at lots of countries and regions, looking for multi-vector trends
 - Use what you know - if you already have an opinion about a trend in a particular city or country, see if the data we have given you backs this up, that could give you a head start!
-- Deadline is 4:00 PM today so there is a little time pressure to come up with a story, understand the facebook data, identify additional data points or sources, bring it together and visualise it inside Tableau. At the end of the day (from 4:15pm onwards) you will be sharing your story with the whole class. 
+- Deadline is today so there is a little time pressure to come up with a story, understand the facebook data, identify additional data points or sources, bring it together and visualise it inside Tableau. At the end of the  project you will be sharing your story with the whole class. 
 
 **Important! this is not a formal / polished presentation- you can simply nominate one person in your team to click through and demonstrate your group's story on the zoom classroom. Feel free to make it funny, entertaining, bringing in memes, sound effects, or being controversial - you can entertain and shock us! 
