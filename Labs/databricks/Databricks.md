@@ -24,8 +24,11 @@ after setting yourself up on the community edition you will complete some activi
 
 5) from Workspace, import a pre prepared notebook from this url https://databricks.com/notebooks/gallery/PandasToKoalasTutorial.html and follow the notebook steps, running each cell. 
 
-6) do the same for this notebook https://databricks.com/notebooks/gallery/SparkSQLAndUDFs.html to explore streaming data 
+6) optional - do the same for this notebook https://databricks.com/notebooks/gallery/SparkSQLAndUDFs.html to explore and understand streaming data - we can discuss in class 
 
-7) ingest image and audio files 
+7) optional - explore how to ingest image and audio files to the workspace  
+
+8) optional - basket analysis - we will talk through this briefly in class , the data is actually now held on kaggle https://www.kaggle.com/c/instacart-market-basket-analysis/data
+
 
 
