@@ -28,7 +28,8 @@ after setting yourself up on the community edition you will complete some activi
 
 7) optional - explore how to ingest image and audio files to the workspace  
 
-8) optional - basket analysis - we will talk through this briefly in class , the data is actually now held on kaggle https://www.kaggle.com/c/instacart-market-basket-analysis/data
+8) optional - basket analysis  https://databricks.com/notebooks/gallery/MarketBasket.html
+- we will talk through this briefly in class , the data is actually now held on kaggle https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
 
 
