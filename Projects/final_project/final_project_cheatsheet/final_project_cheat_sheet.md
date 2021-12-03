@@ -32,9 +32,9 @@
 
 # 1. Datasources
 
-You are free to use any data sources from Kaggle, UCI ML Repository, data.gov, public APIs, websites, etc. However, you will need to spend more time searching for and evaluating the quality and complexity of the data set you want to use. Discuss with your instructor as early as possible regarding your project ideas in order to avoid potential blockers.
+You are free to use any data sources from primary data sources, UCI ML Repository, data.gov, public APIs, websites, etc. However, you will need to spend time searching for and evaluating the quality and complexity of the data set you want to use. Discuss with your instructor as early as possible regarding your project ideas in order to avoid potential blockers. If you identify a data set on Kaggle you want to use, try to find the original source of that data so you can go back to the source, and if you do need to use kaggle, let it not be the ONLY data source you utilise. 
 
-In the following chapters you'll find various datasources. As examples, we explain some of them in the following and why they could be useful when used in your final project
+In the following chapters you'll find various data and ideas. As examples, we explain some of them in the following and why they could be useful when used in your final project
 
 ## 1.1. Some datasets & their potential relevance for the final project
 
