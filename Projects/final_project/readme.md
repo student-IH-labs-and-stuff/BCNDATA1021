@@ -48,8 +48,8 @@ The initial project kick off meeting is often the best moment of any workspace p
 + a) TA - what did they do for a final project ? How did it go ?
 + b) What does Sian look for in a great project idea or delivery of that idea ? 
 + c) Past project profiles  
-+ d) Project Brief - spotify - Break out room discussion 
-+ e) Feedback on the spotify project brief (main room) 
++ d) Project Brief - spotify - Break out discussion 
++ e) Feedback on the spotify project brief 
 + f) Project Briefs Sian has provided (any Q?) 
 + g) Invitation to brainstorm with your peers or explore the resources
 
