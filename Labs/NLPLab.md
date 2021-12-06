@@ -17,7 +17,7 @@ You will follow the instructions and concepts you saw in class today to:
 + apply another sentiment analyser
 + identify and evaluate the differences between each approach
 
-#### Each step below is given a description of what to do and key stages are accompanied by prompt images in [this folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/tree/main/Labs/NLPscreenshots) to confirm you are on the right track 
+#### Each step below is given a description of what to do and key stages are accompanied by prompt images in [this folder](https://github.com/student-IH-labs-and-stuff/BCNDATA1021/tree/main/Labs/NLPscreenshots) to confirm you are on the right track 
 
 ------
 
