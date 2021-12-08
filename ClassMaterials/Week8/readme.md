@@ -5,7 +5,7 @@
 [Ensemble Methods](https://docs.google.com/presentation/d/1vZ7bW82MPUouBMluF7ZWap1Jl_2Ft7OAn5EfsoJpxcs/edit#slide=id.p)
 
 [Computer Vision](https://docs.google.com/presentation/d/1mWUiT05vOPqdBgfS2U4qmwg4NZNCjpq2N1gb6ynoH70/edit?usp=sharing)
-
+[CV notebook on colab](https://colab.research.google.com/drive/116JWhhOcaJ3NcFJbMV5AUrB_amTv4jYu?usp=sharing)
 
 -------
 
