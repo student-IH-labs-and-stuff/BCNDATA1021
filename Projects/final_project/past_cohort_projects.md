@@ -40,3 +40,13 @@
 
 + https://github.com/urospetkovic/Music-Genres-Analysis-and-Prediction
 
++ https://github.com/KofiSika/IronHack/tree/main/Final_Project_IronHack
+
++ https://github.com/mishogavasheli/final_project
+
++ https://github.com/UmmuDem/DataAnalyticsBootcamp/tree/main/Final-Project
+
++ https://github.com/yamilart/DataLabs/tree/main/Final%20Project
+
++ https://github.com/PolFerrandis/NBA_Journey_Project
+
