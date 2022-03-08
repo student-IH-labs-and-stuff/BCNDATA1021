@@ -81,6 +81,7 @@ London Data Store | London specific Datasets (ask Sian for explainers)  | https:
 Data world | cloud catalog of many datasets (free, requires registration)  | https://data.world/
 CRRC | datasets collected on the caucasus, useful non profit source of public opinions, impact etc - download as spss and convert in python  | https://caucasusbarometer.org/en/datasets/
 NASA | what can i add except say its Nasa's data  | https://data.nasa.gov/browse
+Open datasets | 14 days free access to many data sources | https://www.v7labs.com/open-datasets
 
 #### Kaggle sets
 
